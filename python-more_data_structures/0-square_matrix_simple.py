@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 quare_matrix_simple(matrix=[]):
     squared = []
     for line in matrix:
