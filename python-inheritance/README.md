@@ -1,1 +1,5 @@
-Python - Inheritance
+# Python - Inheritance
+
+## Author
+
+Reponse Ashimwe
