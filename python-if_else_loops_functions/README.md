@@ -1,1 +1,5 @@
-Python - if/else, loops, functios
+# Python - if/else, loops, functios
+
+## Author
+
+Reponse Ashimwe
