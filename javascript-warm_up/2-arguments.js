@@ -1,5 +1,6 @@
 #!/usr/bin/node
 /*
+Write a script that prints a message depending of the number of arguments passed:
  *que verifica si se han pasado argumentos al ejecutar el script en Node.js.
 El primer paso es utilizar la función process.argv para acceder a los argumentos
 que fueron pasados cuando se ejecutó el comando en la terminal.
