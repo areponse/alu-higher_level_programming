@@ -1,1 +1,5 @@
-SQL - Introduction
+# SQL - Introduction
+
+## Author
+
+Reponse Ashimwe
