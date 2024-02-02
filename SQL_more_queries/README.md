@@ -1,1 +1,5 @@
-SQL - More queries
+# SQL - More queries
+
+## Author
+
+Reponse Ashimwe
