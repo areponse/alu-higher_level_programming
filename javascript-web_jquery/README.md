@@ -1,6 +1,6 @@
 # JavaScript - Web jQuery
 
-Readme file for _javascript-web_scraping_ directory.
+Readme file for _javascript-web_jQuery_ directory.
 
 ## Highlights
 
