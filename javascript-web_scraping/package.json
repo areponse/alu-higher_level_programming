@@ -1,5 +1,14 @@
 {
   "dependencies": {
     "request": "^2.88.2"
-  }
+  },
+  "name": "web-scraping",
+  "description": "Readme file for _javascript-web_scraping_ directory.",
+  "version": "1.0.0",
+  "main": "0-readme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reponse Ashimwe",
+  "license": "ISC"
 }
